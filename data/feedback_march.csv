@@ -1,0 +1,16 @@
+id,date,review,rating,product_version
+1,2026-03-05,"Battery lasts much longer after the update",4,V2
+2,2026-03-06,"Camera quality is still excellent",5,V2
+3,2026-03-07,"Phone still gets hot while charging",2,V2
+4,2026-03-08,"Performance is very smooth",5,V2
+5,2026-03-10,"Battery backup has improved",4,V2
+6,2026-03-12,"Amazing camera quality",5,V2
+7,2026-03-14,"Phone becomes slightly warm during charging",3,V2
+8,2026-03-16,"The phone is still expensive",2,V2
+9,2026-03-18,"Battery performance is much better now",5,V2
+10,2026-03-20,"Very fast and smooth performance",5,V2
+11,2026-03-22,"Heating issue is still present",2,V2
+12,2026-03-25,"I love the improved camera",5,V2
+13,2026-03-27,"Battery life is good now",4,V2
+14,2026-03-28,"Good phone overall",4,V2
+15,2026-03-30,"Performance is excellent",5,V2

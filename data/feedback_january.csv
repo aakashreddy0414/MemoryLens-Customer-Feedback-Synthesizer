@@ -1,0 +1,16 @@
+id,date,review,rating,product_version
+1,2026-01-05,"Battery drains very quickly",2,V1
+2,2026-01-06,"Camera quality is excellent",5,V1
+3,2026-01-07,"Phone gets very hot while charging",2,V1
+4,2026-01-08,"The phone performance is very good",5,V1
+5,2026-01-10,"Battery does not last a full day",2,V1
+6,2026-01-12,"Amazing camera and display",5,V1
+7,2026-01-14,"The phone becomes hot after using it for one hour",2,V1
+8,2026-01-16,"The phone is too expensive",2,V1
+9,2026-01-18,"Battery backup is poor",2,V1
+10,2026-01-20,"Very smooth performance",5,V1
+11,2026-01-22,"Charging makes the phone extremely hot",2,V1
+12,2026-01-25,"I really like the camera",5,V1
+13,2026-01-27,"Battery needs improvement",2,V1
+14,2026-01-28,"Good phone overall",4,V1
+15,2026-01-30,"Performance is excellent",5,V1
